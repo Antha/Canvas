@@ -83,7 +83,6 @@
   <div class="container">
 	  <div class="row">
 	    <div class="col-md-12">
-	      *)You can use both keyboard and the button below
 	      <canvas width="500" height="400" id='c' tabindex="3">
 	      </canvas>
 	    </div>
@@ -91,6 +90,9 @@
 
 	  <div class="row">
 	    <div class="col-md-12" id='gamepad'>
+	      <strong>
+	      *)You can use both keyboard and the button below
+	      </strong><br/>
 	      <button id='UP'>UP</button><br/>
 	      <button id='LEFT'>LEFT</button><button id='RIGHT'>RIGHT</button><br/>
 	      <button id='DOWN'>DOWN</button>
